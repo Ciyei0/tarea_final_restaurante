@@ -1,0 +1,14 @@
+D:\ITLA\prog paralela\tarea_final\tarea_final\bin\Debug\net8.0\tarea_final.exe
+D:\ITLA\prog paralela\tarea_final\tarea_final\bin\Debug\net8.0\tarea_final.deps.json
+D:\ITLA\prog paralela\tarea_final\tarea_final\bin\Debug\net8.0\tarea_final.runtimeconfig.json
+D:\ITLA\prog paralela\tarea_final\tarea_final\bin\Debug\net8.0\tarea_final.dll
+D:\ITLA\prog paralela\tarea_final\tarea_final\bin\Debug\net8.0\tarea_final.pdb
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\tarea_final.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\tarea_final.AssemblyInfoInputs.cache
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\tarea_final.AssemblyInfo.cs
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\tarea_final.csproj.CoreCompileInputs.cache
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\tarea_final.dll
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\refint\tarea_final.dll
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\tarea_final.pdb
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\tarea_final.genruntimeconfig.cache
+D:\ITLA\prog paralela\tarea_final\tarea_final\obj\Debug\net8.0\ref\tarea_final.dll
